@@ -16,7 +16,7 @@ const App = () => {
   }, []);
   return (
     <div className="app">
-      <h1>Movieland</h1>
+      <h1>MovieHub</h1>
       <div className="search">
         <input
           placeholder="Search for movie"
